@@ -19,7 +19,7 @@ El desarrollo debería ser los más responsive posible.
 Una clave debe ser un strings de hasta 2048 caracteres, la cual debe estar correctamente cifrada en la base de datos.
 
 ## Tecnologías ##
-Podés utilizar cualquier tecnología tanto en el backend como en el frontend.
+Se debe utilizar Django en el backend.
 
 ## Entrega ##
 La entrega es mediante un repositorio privado de GitHub que debes compartir a la cuenta de pabexcba y enviar un email a challenges@pabex.ar con el asunto "Challenge".
