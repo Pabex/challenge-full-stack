@@ -1,4 +1,4 @@
-# Challenge para Full Stack del 07 de mayo de 2021 #
+# Challenge para Full Stack #
 
 ## Introducción ##
 Este challenge te servirá tanto para evaluarte a ti mismo, como así también, si quisieras ingresar a trabajar con nosotros. No requiere inscripción. Básicamente en este mismo README definiremos los requerimientos y cuando los termines a todos o a la mayor parte de ellos, nos debes compartir el repositorio de GitHub a la cuenta cuyo nombre de usuario es pabexcba.
