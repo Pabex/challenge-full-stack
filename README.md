@@ -22,7 +22,7 @@ Una clave debe ser un strings de hasta 2048 caracteres, la cual debe estar corre
 Podés utilizar cualquier tecnología tanto en el backend como en el frontend.
 
 ## Entrega ##
-La entrega es mediante un repositorio privado de GitHub que debes compartir a la cuenta de pabexcba hasta el día domingo 9 a las 23:59.
+La entrega es mediante un repositorio privado de GitHub que debes compartir a la cuenta de pabexcba y enviar un email a challenges@pabex.ar con el asunto "Challenge".
 
 ## Consideraciones ##
 Tendrás un feedback personalizado de tu desarrollo independientemente hasta donde llegues. Además podrás conocer tu nivel de seniority de la escala Pabex. Cualquier duda que tengas, podés comunicarte con challenges@pabex.ar.
