@@ -9,25 +9,25 @@ Una empresa necesita realizar pruebas automatizadas en su plataforma web para ga
 ## Requirimientos funcionales ##
 Desarrollar un sitio web que permita registrar usuarios, iniciar sesión y realizar operaciones básicas sobre una entidad "Producto". Se deben cumplir los siguientes requisitos:
 
-1. Registro e inicio de sesión.
-1.A. Un usuario debe poder registrarse con email y contraseña.
-1.B. El usuario debe poder iniciar sesión con sus credenciales.
+1. Registro e inicio de sesión.  
+1.A. Un usuario debe poder registrarse con email y contraseña.  
+1.B. El usuario debe poder iniciar sesión con sus credenciales.  
 
-2. CRUD de productos:
-2.A. Crear productos con nombre, descripción y precio.
-2.B. Listar productos disponibles.
-2.C. Modificar un producto existente.
-2.D. Eliminar un producto.
+2. CRUD de productos.  
+2.A. Crear productos con nombre, descripción y precio.  
+2.B. Listar productos disponibles.  
+2.C. Modificar un producto existente.  
+2.D. Eliminar un producto.  
 
-3. Pruebas automatizadas con Selenium:
+3. Pruebas automatizadas con Selenium.  
 Debes desarrollar pruebas end-to-end usando Selenium para validar las siguientes acciones:
 
-3.A. Registro de usuario.
-3.B. Inicio de sesión.
-3.C. Creación de un producto.
-3.D. Edición de un producto.
-3.E. Eliminación de un producto.
-3.F. Verificación de errores al intentar registrar un usuario con un email ya existente.
+3.A. Registro de usuario.  
+3.B. Inicio de sesión.  
+3.C. Creación de un producto.  
+3.D. Edición de un producto.  
+3.E. Eliminación de un producto.  
+3.F. Verificación de errores al intentar registrar un usuario con un email ya existente.  
 
 ## Requirimientos no funcionales ##
 No hay, pero se apreciará un estilo bonito.
